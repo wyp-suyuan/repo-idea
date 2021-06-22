@@ -15,4 +15,8 @@ public interface TestMapper {
     测试git的拉取操作
     */
     public void  gitPull();
+    public void  gitPull7();
+    public void  gitPull8();
+    public void  gitPull9();
+    public void  gitPull10();
 }
